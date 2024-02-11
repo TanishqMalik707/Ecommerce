@@ -90,7 +90,7 @@ export const serviceData = [
 export const discoutProducts = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 193,
@@ -109,7 +109,7 @@ export const discoutProducts = [
   },
   {
     id: "02",
-    productName: "Rivet Bigelow Modern ",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 253,
@@ -132,7 +132,7 @@ export const discoutProducts = [
   },
   {
     id: "08",
-    productName: "Baltsar Chair",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 89,
@@ -155,7 +155,7 @@ export const discoutProducts = [
   },
   {
     id: "09",
-    productName: "Helmar Chair",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 112,
@@ -178,7 +178,7 @@ export const discoutProducts = [
   },
   {
     id: "12",
-    productName: "Realme 8",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 599,
@@ -201,7 +201,7 @@ export const discoutProducts = [
   },
   {
     id: "13",
-    productName: "One Plus Nord",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
@@ -228,7 +228,7 @@ export const discoutProducts = [
 export const products = [
   {
     id: "01",
-    productName: "Stone and Beam Westview ",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 193,
@@ -247,7 +247,7 @@ export const products = [
 
   {
     id: "02",
-    productName: "Rivet Bigelow Modern ",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 253,
@@ -270,7 +270,7 @@ export const products = [
 
   {
     id: "03",
-    productName: "Amazon Brand Modern Sofa",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 173,
@@ -292,7 +292,7 @@ export const products = [
   },
   {
     id: "26",
-    productName: "Rivet Bigelow Modern ",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 253,
@@ -314,7 +314,7 @@ export const products = [
   },
   {
     id: "04",
-    productName: "Fllufy Sheep Sofa",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 163,
@@ -337,7 +337,7 @@ export const products = [
 
   {
     id: "05",
-    productName: "Faux Velvet Sofa",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 163,
@@ -360,7 +360,7 @@ export const products = [
 
   {
     id: "06",
-    productName: "Fllufy Sheep Sofa",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 163,
@@ -382,7 +382,7 @@ export const products = [
   },
   {
     id: "07",
-    productName: "Sakarias Armchair",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 99,
@@ -405,7 +405,7 @@ export const products = [
 
   {
     id: "27",
-    productName: "Modern Arm Sofa",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 173,
@@ -428,7 +428,7 @@ export const products = [
 
   {
     id: "08",
-    productName: "Baltsar Chair",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 89,
@@ -451,7 +451,7 @@ export const products = [
 
   {
     id: "09",
-    productName: "Helmar Chair",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 112,
@@ -474,7 +474,7 @@ export const products = [
 
   {
     id: "10",
-    productName: "Apple iPhone 12 Pro",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
@@ -496,7 +496,7 @@ export const products = [
   },
   {
     id: "25",
-    productName: "Sakarias Armchair",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 99,
@@ -518,7 +518,7 @@ export const products = [
   },
   {
     id: "11",
-    productName: "Apple iPhone 12 Max",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
@@ -541,7 +541,7 @@ export const products = [
 
   {
     id: "12",
-    productName: "Realme 8",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 599,
@@ -564,7 +564,7 @@ export const products = [
 
   {
     id: "13",
-    productName: "One Plus Nord",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
@@ -587,7 +587,7 @@ export const products = [
 
   {
     id: "14",
-    productName: "Apple iPhone 13 Pro",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 899,
@@ -610,7 +610,7 @@ export const products = [
 
   {
     id: "15",
-    productName: "Samsung Galaxy S22",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 699,
@@ -633,7 +633,7 @@ export const products = [
 
   {
     id: "16",
-    productName: "Rolex Watch",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 299,
@@ -656,7 +656,7 @@ export const products = [
 
   {
     id: "17",
-    productName: "Timex Easy Reader Watch",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 299,
@@ -679,7 +679,7 @@ export const products = [
 
   {
     id: "18",
-    productName: "Rolex Watch",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 299,
@@ -702,7 +702,7 @@ export const products = [
 
   {
     id: "19",
-    productName: "Apple Watch",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 399,
@@ -725,7 +725,7 @@ export const products = [
 
   {
     id: "20",
-    productName: "Beat Studio Wireless",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 199,
@@ -748,7 +748,7 @@ export const products = [
 
   {
     id: "21",
-    productName: "Beat EP Headphones",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 199,
@@ -770,7 +770,7 @@ export const products = [
   },
   {
     id: "22",
-    productName: "Black Headphones",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 169,
@@ -792,7 +792,7 @@ export const products = [
   },
   {
     id: "23",
-    productName: "Bluetooth Headphones",
+    productName: 'Lorem ipsum dolor sit amet consectetur',
     imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 139,
