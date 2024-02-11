@@ -30,33 +30,33 @@ import wireless02 from "../Images/wireless-02.png";
 import wireless03 from "../Images/wireless-03.png";
 import wireless04 from "../Images/wireless-04.png";
 
-import sofaSlide from "../Images/hero-img.png";
-import watchSlide from "../Images/watch-07.png";
+// import sofaSlide from "../Images/hero-img.png";
+// import watchSlide from "../Images/watch-07.png";
 
 export const SliderData = [
   {
       id: 1,
       title: "50% Off For Your First Shopping",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: sofaSlide,
+      cover: 'https://source.unsplash.com/random/?tiles',
   },
   {
       id: 2,
       title: "50% Off For Your First Shopping",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: phone08,
+      cover: 'https://source.unsplash.com/random/?tiles',
   },
   {
       id: 3,
       title: "50% Off For Your First Shopping",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: wireless01,
+      cover: 'https://source.unsplash.com/random/?tiles',
   },
   {
       id: 4,
       title: "50% Off For Your First Shopping",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: watchSlide,
+      cover: 'https://source.unsplash.com/random/?tiles',
   },
 ];
 
@@ -91,7 +91,7 @@ export const discoutProducts = [
   {
     id: "01",
     productName: "Stone and Beam Westview ",
-    imgUrl: productImg01,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 193,
     discount:30,
@@ -110,7 +110,7 @@ export const discoutProducts = [
   {
     id: "02",
     productName: "Rivet Bigelow Modern ",
-    imgUrl: productImg02,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 253,
     discount:20,
@@ -133,7 +133,7 @@ export const discoutProducts = [
   {
     id: "08",
     productName: "Baltsar Chair",
-    imgUrl: productImg08,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 89,
     discount:15,
@@ -156,7 +156,7 @@ export const discoutProducts = [
   {
     id: "09",
     productName: "Helmar Chair",
-    imgUrl: productImg09,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 112,
     discount:35,
@@ -179,7 +179,7 @@ export const discoutProducts = [
   {
     id: "12",
     productName: "Realme 8",
-    imgUrl: phone03,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 599,
     discount:10,
@@ -202,7 +202,7 @@ export const discoutProducts = [
   {
     id: "13",
     productName: "One Plus Nord",
-    imgUrl: phone04,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
     discount:5,
@@ -229,7 +229,7 @@ export const products = [
   {
     id: "01",
     productName: "Stone and Beam Westview ",
-    imgUrl: productImg01,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 193,
     shortDesc:
@@ -248,7 +248,7 @@ export const products = [
   {
     id: "02",
     productName: "Rivet Bigelow Modern ",
-    imgUrl: productImg02,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 253,
     shortDesc:
@@ -271,7 +271,7 @@ export const products = [
   {
     id: "03",
     productName: "Amazon Brand Modern Sofa",
-    imgUrl: productImg03,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 173,
     shortDesc:
@@ -293,7 +293,7 @@ export const products = [
   {
     id: "26",
     productName: "Rivet Bigelow Modern ",
-    imgUrl: productImg02,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 253,
     shortDesc:
@@ -315,7 +315,7 @@ export const products = [
   {
     id: "04",
     productName: "Fllufy Sheep Sofa",
-    imgUrl: productImg04,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 163,
     shortDesc:
@@ -338,7 +338,7 @@ export const products = [
   {
     id: "05",
     productName: "Faux Velvet Sofa",
-    imgUrl: productImg05,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 163,
     shortDesc:
@@ -361,7 +361,7 @@ export const products = [
   {
     id: "06",
     productName: "Fllufy Sheep Sofa",
-    imgUrl: productImg06,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 163,
     shortDesc:
@@ -383,7 +383,7 @@ export const products = [
   {
     id: "07",
     productName: "Sakarias Armchair",
-    imgUrl: productImg07,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 99,
     shortDesc:
@@ -406,7 +406,7 @@ export const products = [
   {
     id: "27",
     productName: "Modern Arm Sofa",
-    imgUrl: productImg007,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "sofa",
     price: 173,
     shortDesc:
@@ -429,7 +429,7 @@ export const products = [
   {
     id: "08",
     productName: "Baltsar Chair",
-    imgUrl: productImg08,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 89,
     shortDesc:
@@ -452,7 +452,7 @@ export const products = [
   {
     id: "09",
     productName: "Helmar Chair",
-    imgUrl: productImg09,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 112,
     shortDesc:
@@ -475,7 +475,7 @@ export const products = [
   {
     id: "10",
     productName: "Apple iPhone 12 Pro",
-    imgUrl: phone01,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
     shortDesc:
@@ -497,7 +497,7 @@ export const products = [
   {
     id: "25",
     productName: "Sakarias Armchair",
-    imgUrl: productImg10,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "chair",
     price: 99,
     shortDesc:
@@ -519,7 +519,7 @@ export const products = [
   {
     id: "11",
     productName: "Apple iPhone 12 Max",
-    imgUrl: phone02,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
     shortDesc:
@@ -542,7 +542,7 @@ export const products = [
   {
     id: "12",
     productName: "Realme 8",
-    imgUrl: phone03,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 599,
     shortDesc:
@@ -565,7 +565,7 @@ export const products = [
   {
     id: "13",
     productName: "One Plus Nord",
-    imgUrl: phone04,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 799,
     shortDesc:
@@ -588,7 +588,7 @@ export const products = [
   {
     id: "14",
     productName: "Apple iPhone 13 Pro",
-    imgUrl: phone05,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 899,
     shortDesc:
@@ -611,7 +611,7 @@ export const products = [
   {
     id: "15",
     productName: "Samsung Galaxy S22",
-    imgUrl: phone06,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "mobile",
     price: 699,
     shortDesc:
@@ -634,7 +634,7 @@ export const products = [
   {
     id: "16",
     productName: "Rolex Watch",
-    imgUrl: watch01,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 299,
     shortDesc:
@@ -657,7 +657,7 @@ export const products = [
   {
     id: "17",
     productName: "Timex Easy Reader Watch",
-    imgUrl: watch02,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 299,
     shortDesc:
@@ -680,7 +680,7 @@ export const products = [
   {
     id: "18",
     productName: "Rolex Watch",
-    imgUrl: watch03,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 299,
     shortDesc:
@@ -703,7 +703,7 @@ export const products = [
   {
     id: "19",
     productName: "Apple Watch",
-    imgUrl: watch04,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "watch",
     price: 399,
     shortDesc:
@@ -726,7 +726,7 @@ export const products = [
   {
     id: "20",
     productName: "Beat Studio Wireless",
-    imgUrl: wireless01,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 199,
     shortDesc:
@@ -749,7 +749,7 @@ export const products = [
   {
     id: "21",
     productName: "Beat EP Headphones",
-    imgUrl: wireless03,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 199,
     shortDesc:
@@ -771,7 +771,7 @@ export const products = [
   {
     id: "22",
     productName: "Black Headphones",
-    imgUrl: wireless02,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 169,
     shortDesc:
@@ -793,7 +793,7 @@ export const products = [
   {
     id: "23",
     productName: "Bluetooth Headphones",
-    imgUrl: wireless04,
+    imgUrl:'https://source.unsplash.com/random/?tiles',
     category: "wireless",
     price: 139,
     shortDesc:

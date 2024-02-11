@@ -47,7 +47,7 @@ const Login = () => {
             <Link className={css.forgot}>Forgot Password ?</Link>
             <button className={css.btn}>SUBMIT</button>
             <hr className={css.style_two} />
-            <Link to={"/register"}>Create new account</Link>
+            <Link className={css.create} to={"/register"}>Create new account</Link>
           </div>
         </form>
       </div>
